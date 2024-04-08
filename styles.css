@@ -1,0 +1,91 @@
+body {
+  background-color: #9ccc65;
+}
+.custom-container-inner {
+  padding-top: 10px !important;
+  border-radius: 15px 15px 0px 0px;
+  background-color: white;
+  margin-top: 20px;
+  width: 361px;
+}
+.subtitle {
+  font-size: 12px;
+}
+.currency-card-light {
+  border: 1px solid #bbb;
+  height: 60px;
+  border-radius: 5px;
+}
+.currency-card {
+  border: 1px solid black;
+  height: 60px;
+  border-radius: 5px;
+}
+
+textarea:focus,
+input:focus {
+  outline: none;
+}
+select {
+  border: none;
+  width: 90%;
+}
+*:focus {
+  outline: none;
+}
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+::placeholder {
+  color: black;
+  font-weight: 600;
+}
+.fee-card-title {
+  font-size: 12px;
+  font-weight: 700;
+}
+.fee-card-subtitle {
+  font-size: 12px;
+  font-weight: 700;
+  color: #bbb;
+}
+.dot {
+  height: 10px;
+  width: 10px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+}
+.dot1 {
+  height: 15px;
+  width: 15px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+}
+.hrline {
+  border-top: 1px solid #bbb;
+}
+.conatiner-badge {
+  border-radius: 15px 15px 0px 0px;
+  background-color: #bbb;
+  width: 100%;
+}
+.exclamat-icon {
+  position: absolute;
+  top: 12px;
+  right: 10px;
+}
+.footer-subtitle {
+  font-size: 13px;
+  font-weight: 500;
+}
+.underline-text {
+  color: #33691e;
+}
+.convert-btn {
+  background-color: #689f38;
+  color: white;
+}
